@@ -1,6 +1,6 @@
-# Word Quest Admin Panel
+# Word Quest 
 
-A web-based admin panel for the **Word Quest / Guess the Word** game built using **React**, **TypeScript**, and **Vite**. This project allows admins to manage game components and users while providing a modern, responsive interface.
+A  **Word Quest / Guess the Word** game built using **React**, **TypeScript**, and **Vite**. This project allows admins to manage game components and users while providing a modern, responsive interface.
 
 
 ## **Features**
