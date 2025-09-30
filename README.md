@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Word Quest Admin
 
 A React-based admin panel for managing a Wordle-like word guessing game.
@@ -36,3 +37,7 @@ npm run build
 ## License
 
 This project is private.
+=======
+# Guess-the-word
+Word Quest Admin is a modern, full-stack Wordle game application built with React, TypeScript, and Tailwind CSS. This project features both player and admin interfaces, providing a complete word-guessing game experience with comprehensive analytics and management capabilities.
+>>>>>>> dd6abf11d7a1528643f7749dd4a039de560cbcb1
